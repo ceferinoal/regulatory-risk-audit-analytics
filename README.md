@@ -33,6 +33,15 @@ This module reviews whether material risks are properly identified, owned, revie
 This module reviews whether liquidity risk data supports effective monitoring of maturity gaps, funding concentration and liquidity buffer adequacy. It includes SQL tests over simulated liquidity cashflows, funding sources and eligible liquid assets.
 
 The objective is not to replicate a full ILAAP model, but to demonstrate how Internal Audit can use data analytics to identify liquidity risk control exceptions and assess whether liquidity monitoring is supported by reliable data.
+
+### 4. IFRS 9 Staging & Expected Credit Loss Testing
+
+This module reviews whether IFRS 9 staging and expected credit loss data are complete, reasonable and consistent with basic credit deterioration indicators.
+
+It includes SQL tests to identify loans with 30+ days past due still classified as Stage 1, loans with 90+ days past due not classified as Stage 3, significant PD increases not reflected in staging, missing PD/LGD/EAD inputs and differences between reported and simplified recalculated ECL.
+
+The objective is not to replicate a full IFRS 9 impairment model, but to demonstrate how Internal Audit can use data analytics to identify staging inconsistencies, input data issues and ECL reasonableness exceptions.
+
 ## Audit Objective
 
 Internal Audit functions in banking are increasingly expected to move from sample-based testing to data-driven assurance.
