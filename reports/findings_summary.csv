@@ -1,0 +1,15 @@
+module,test_name,exception_count,risk_rating,audit_interpretation
+IFRS 9,"Loans with missing PD, LGD or EAD inputs",81,HIGH,Missing IFRS 9 model inputs may affect the completeness and reliability of expected credit loss calculations.
+Capital & RWA,Reported RWA differs from simplified recalculated RWA,77,HIGH,"Differences between reported and recalculated RWA may indicate calculation, mapping or reconciliation issues requiring further audit investigation."
+IFRS 9,Reported ECL differs from simplified recalculated ECL,61,HIGH,"Differences between reported and recalculated ECL may indicate model input, calculation or reconciliation issues requiring further review."
+ICAAP & RAF,Risk Appetite Framework limit breaches,7,LOW,RAF breaches indicate areas where current risk levels exceed approved appetite and require governance attention.
+ILAAP,Funding concentration above 10% by counterparty,6,LOW,High funding concentration may increase vulnerability to counterparty withdrawal or market stress.
+ICAAP & RAF,Material risks without assigned internal capital,3,LOW,"Material risks without assigned capital may indicate weaknesses in ICAAP completeness, risk quantification or governance."
+ICAAP & RAF,Material risks without assigned risk owner,3,LOW,"Material risks without clear ownership may weaken accountability, monitoring and escalation within the risk governance framework."
+ILAAP,Negative liquidity gaps by maturity bucket,3,LOW,"Negative liquidity gaps in maturity buckets may indicate liquidity mismatch requiring monitoring, escalation or contingency funding actions."
+ICAAP & RAF,RAF breaches not escalated to committee,2,LOW,Risk appetite breaches without escalation may indicate weaknesses in governance discipline and breach management procedures.
+ILAAP,Non-eligible assets identified in liquidity buffer population,42,MEDIUM,Non-eligible assets within the liquidity buffer population may indicate classification or data quality issues.
+Capital & RWA,Exposures without regulatory exposure class,29,MEDIUM,Missing regulatory exposure classifications may indicate data quality weaknesses affecting RWA calculation and prudential reporting.
+IFRS 9,Loans with 30+ days past due still classified as Stage 1,28,MEDIUM,Loans with 30+ days past due remaining in Stage 1 may indicate staging inconsistencies or delayed recognition of credit deterioration.
+Capital & RWA,Exposures without risk weight,23,MEDIUM,Missing risk weights may prevent accurate RWA calculation and weaken regulatory reporting controls.
+IFRS 9,Loans with 90+ days past due not classified as Stage 3,21,MEDIUM,Loans with default indicators not classified as Stage 3 may indicate weaknesses in default identification or staging controls.
