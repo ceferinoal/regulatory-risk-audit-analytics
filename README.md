@@ -28,6 +28,11 @@ This module performs reasonableness testing over simulated regulatory exposure d
 
 This module reviews whether material risks are properly identified, owned, reviewed, capitalised and monitored against risk appetite limits. It also detects breaches that have not been escalated according to governance procedures.
 
+### 3. ILAAP Liquidity Risk Testing
+
+This module reviews whether liquidity risk data supports effective monitoring of maturity gaps, funding concentration and liquidity buffer adequacy. It includes SQL tests over simulated liquidity cashflows, funding sources and eligible liquid assets.
+
+The objective is not to replicate a full ILAAP model, but to demonstrate how Internal Audit can use data analytics to identify liquidity risk control exceptions and assess whether liquidity monitoring is supported by reliable data.
 ## Audit Objective
 
 Internal Audit functions in banking are increasingly expected to move from sample-based testing to data-driven assurance.
