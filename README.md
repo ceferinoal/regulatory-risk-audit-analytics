@@ -18,6 +18,16 @@ The project does not aim to replicate a full regulatory reporting engine. Its pu
 * ILAAP liquidity gap and funding concentration analysis
 * IFRS 9 staging and expected credit loss reasonableness testing
 
+## Project Modules
+
+### 1. Capital & RWA Testing
+
+This module performs reasonableness testing over simulated regulatory exposure data. It identifies missing regulatory classifications, missing risk weights and differences between reported RWA and simplified recalculated RWA.
+
+### 2. ICAAP & Risk Appetite Framework Testing
+
+This module reviews whether material risks are properly identified, owned, reviewed, capitalised and monitored against risk appetite limits. It also detects breaches that have not been escalated according to governance procedures.
+
 ## Audit Objective
 
 Internal Audit functions in banking are increasingly expected to move from sample-based testing to data-driven assurance.
