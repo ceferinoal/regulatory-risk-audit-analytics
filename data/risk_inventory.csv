@@ -1,0 +1,61 @@
+risk_id,risk_type,materiality,risk_owner,capital_required,methodology,last_review_date
+RISK_001,Market Risk,MATERIAL,Owner_9,1400562.27,Historical loss analysis,2025-02-07
+RISK_002,IRRBB,NON_MATERIAL,Owner_6,1857339.73,Standardised approach,2025-03-10
+RISK_003,Concentration Risk,NON_MATERIAL,Owner_11,1681080.08,Expert judgement,2024-01-12
+RISK_004,Model Risk,MATERIAL,Owner_6,2138069.56,Historical loss analysis,2025-09-02
+RISK_005,Concentration Risk,MATERIAL,Owner_9,1274619.91,Standardised approach,2025-05-03
+RISK_006,Liquidity Risk,MATERIAL,Owner_1,2470403.22,Economic capital model,2025-07-19
+RISK_007,Operational Risk,NON_MATERIAL,Owner_1,194624.35,Standardised approach,2025-09-21
+RISK_008,Market Risk,NON_MATERIAL,Owner_14,2320595.96,Standardised approach,2026-04-14
+RISK_009,Concentration Risk,MATERIAL,Owner_14,1463068.55,Standardised approach,2024-10-17
+RISK_010,IRRBB,NON_MATERIAL,Owner_3,181470.35,Economic capital model,2026-03-29
+RISK_011,Liquidity Risk,MATERIAL,Owner_6,813637.62,Stress scenario,2025-12-16
+RISK_012,Market Risk,NON_MATERIAL,Owner_4,2430539.79,Standardised approach,2024-01-27
+RISK_013,Operational Risk,NON_MATERIAL,Owner_2,1238114.12,Historical loss analysis,2025-03-23
+RISK_014,IRRBB,NON_MATERIAL,Owner_15,2126918.56,Stress scenario,2024-04-15
+RISK_015,Credit Risk,MATERIAL,Owner_12,2089397.14,Standardised approach,2024-02-15
+RISK_016,Model Risk,MATERIAL,Owner_12,1531047.71,Historical loss analysis,2024-01-18
+RISK_017,Operational Risk,MATERIAL,,0.0,Historical loss analysis,2025-04-11
+RISK_018,Concentration Risk,MATERIAL,Owner_6,1771093.06,Standardised approach,2024-01-21
+RISK_019,Credit Risk,MATERIAL,Owner_14,1839440.25,Stress scenario,2024-04-01
+RISK_020,Credit Risk,MATERIAL,,856696.81,Expert judgement,2026-03-12
+RISK_021,IRRBB,MATERIAL,Owner_10,1997735.6,Stress scenario,2025-06-06
+RISK_022,Credit Risk,MATERIAL,Owner_11,1602139.3,Expert judgement,2025-02-04
+RISK_023,Credit Risk,NON_MATERIAL,Owner_4,1578071.65,Expert judgement,2025-07-14
+RISK_024,Concentration Risk,MATERIAL,Owner_7,158561.88,Stress scenario,2025-12-22
+RISK_025,Model Risk,NON_MATERIAL,Owner_1,151046.59,Historical loss analysis,2025-03-24
+RISK_026,Operational Risk,NON_MATERIAL,Owner_2,1369449.12,Expert judgement,2024-12-09
+RISK_027,Liquidity Risk,NON_MATERIAL,Owner_13,2017079.77,Stress scenario,2024-03-17
+RISK_028,Market Risk,NON_MATERIAL,Owner_8,941708.36,Historical loss analysis,2025-10-16
+RISK_029,Liquidity Risk,NON_MATERIAL,Owner_7,1064634.19,Historical loss analysis,2025-10-18
+RISK_030,IRRBB,MATERIAL,Owner_10,1606013.11,Historical loss analysis,2025-08-27
+RISK_031,Liquidity Risk,NON_MATERIAL,Owner_6,2461800.33,Historical loss analysis,2026-02-04
+RISK_032,Credit Risk,NON_MATERIAL,Owner_11,1102640.28,Expert judgement,2025-02-27
+RISK_033,Operational Risk,MATERIAL,Owner_6,1870197.52,Stress scenario,2025-06-12
+RISK_034,Concentration Risk,MATERIAL,Owner_5,365137.87,Stress scenario,2025-05-13
+RISK_035,Liquidity Risk,MATERIAL,Owner_10,0.0,Stress scenario,2025-02-09
+RISK_036,Market Risk,MATERIAL,Owner_11,660658.6,Standardised approach,2025-11-28
+RISK_037,Credit Risk,MATERIAL,Owner_12,142897.44,Economic capital model,2025-08-31
+RISK_038,Concentration Risk,NON_MATERIAL,Owner_14,1126655.52,Standardised approach,2026-04-22
+RISK_039,Operational Risk,MATERIAL,,1731153.48,Economic capital model,2025-06-28
+RISK_040,Market Risk,MATERIAL,Owner_12,2379906.84,Historical loss analysis,2025-10-02
+RISK_041,Operational Risk,NON_MATERIAL,Owner_9,314586.41,Expert judgement,2024-08-07
+RISK_042,Model Risk,MATERIAL,Owner_3,2209883.94,Economic capital model,2025-04-16
+RISK_043,Credit Risk,NON_MATERIAL,Owner_5,1221763.63,Stress scenario,2026-03-06
+RISK_044,Operational Risk,MATERIAL,Owner_4,0.0,Historical loss analysis,2025-08-02
+RISK_045,Credit Risk,NON_MATERIAL,Owner_2,656012.08,Expert judgement,2024-06-29
+RISK_046,Operational Risk,NON_MATERIAL,Owner_11,1659151.96,Standardised approach,2026-01-16
+RISK_047,Credit Risk,MATERIAL,Owner_5,1330452.43,Expert judgement,2025-09-12
+RISK_048,Model Risk,MATERIAL,Owner_2,523667.28,Standardised approach,2024-12-26
+RISK_049,Market Risk,MATERIAL,Owner_4,547451.83,Historical loss analysis,2025-01-23
+RISK_050,Credit Risk,NON_MATERIAL,Owner_4,940300.62,Historical loss analysis,2025-06-28
+RISK_051,Operational Risk,MATERIAL,Owner_8,2425846.31,Expert judgement,2024-04-04
+RISK_052,Operational Risk,NON_MATERIAL,Owner_6,2326605.48,Standardised approach,2025-09-07
+RISK_053,IRRBB,NON_MATERIAL,Owner_5,517348.6,Economic capital model,2024-08-04
+RISK_054,Operational Risk,MATERIAL,Owner_15,1919772.34,Expert judgement,2024-01-23
+RISK_055,Operational Risk,MATERIAL,Owner_4,469350.18,Stress scenario,2025-05-22
+RISK_056,Credit Risk,NON_MATERIAL,Owner_12,638657.37,Expert judgement,2024-11-19
+RISK_057,Model Risk,MATERIAL,Owner_10,1388738.61,Stress scenario,2025-03-05
+RISK_058,Operational Risk,MATERIAL,Owner_15,1492206.9,Historical loss analysis,2025-06-03
+RISK_059,Model Risk,MATERIAL,Owner_3,2205906.07,Historical loss analysis,2024-10-29
+RISK_060,Market Risk,MATERIAL,Owner_5,410835.81,Historical loss analysis,2025-12-19

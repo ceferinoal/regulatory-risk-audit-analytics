@@ -1,0 +1,101 @@
+source_id,counterparty,funding_amount,maturity_date,funding_type
+FUND_0001,Counterparty B,3748249.44,2026-12-26,Wholesale funding
+FUND_0002,Counterparty E,1518084.61,2028-03-12,Covered bonds
+FUND_0003,Counterparty E,6409774.0,2028-01-21,Central bank facility
+FUND_0004,Counterparty B,5626037.25,2028-02-20,Retail deposits
+FUND_0005,Counterparty B,1960964.5,2028-05-23,Wholesale funding
+FUND_0006,Counterparty C,888453.1,2026-09-09,Interbank funding
+FUND_0007,Counterparty B,5523869.59,2027-11-16,Central bank facility
+FUND_0008,Counterparty D,5322461.91,2028-04-15,Covered bonds
+FUND_0009,Counterparty B,2367761.33,2027-07-21,Interbank funding
+FUND_0010,Counterparty D,7619192.61,2026-11-07,Retail deposits
+FUND_0011,Counterparty B,1420698.66,2027-02-06,Wholesale funding
+FUND_0012,Counterparty D,3600594.71,2026-07-05,Covered bonds
+FUND_0013,Counterparty D,7563023.38,2027-02-02,Retail deposits
+FUND_0014,Counterparty B,3502886.71,2026-08-26,Retail deposits
+FUND_0015,Counterparty D,5198576.09,2028-03-12,Interbank funding
+FUND_0016,Counterparty F,3331356.58,2027-05-18,Interbank funding
+FUND_0017,Counterparty B,2375167.82,2027-08-31,Interbank funding
+FUND_0018,Counterparty A,7875826.77,2028-03-03,Interbank funding
+FUND_0019,Counterparty F,3422338.55,2027-05-06,Interbank funding
+FUND_0020,Counterparty E,7179268.83,2028-01-26,Central bank facility
+FUND_0021,Counterparty E,2032148.2,2027-12-09,Wholesale funding
+FUND_0022,Counterparty E,1901561.46,2026-10-09,Interbank funding
+FUND_0023,Counterparty D,491289.14,2026-08-02,Retail deposits
+FUND_0024,Counterparty E,5300417.9,2027-12-22,Interbank funding
+FUND_0025,Counterparty F,3106079.16,2026-07-30,Central bank facility
+FUND_0026,Counterparty D,6948776.44,2027-11-30,Wholesale funding
+FUND_0027,Counterparty B,3917376.78,2027-04-14,Interbank funding
+FUND_0028,Counterparty D,7753499.07,2027-04-27,Covered bonds
+FUND_0029,Counterparty D,1687822.75,2026-12-07,Interbank funding
+FUND_0030,Counterparty C,6981829.55,2028-03-08,Wholesale funding
+FUND_0031,Counterparty F,6268625.61,2027-12-01,Retail deposits
+FUND_0032,Counterparty D,6224644.3,2028-04-11,Interbank funding
+FUND_0033,Counterparty A,6797070.02,2027-11-14,Wholesale funding
+FUND_0034,Counterparty B,6147935.93,2028-02-09,Central bank facility
+FUND_0035,Counterparty B,5103207.49,2027-07-27,Interbank funding
+FUND_0036,Counterparty C,1267147.8,2027-09-24,Wholesale funding
+FUND_0037,Counterparty B,502077.89,2027-09-27,Central bank facility
+FUND_0038,Counterparty F,7386570.82,2027-01-12,Interbank funding
+FUND_0039,Counterparty A,5029039.94,2027-03-03,Covered bonds
+FUND_0040,Counterparty F,6423164.01,2028-04-14,Retail deposits
+FUND_0041,Counterparty F,3981798.22,2026-10-24,Wholesale funding
+FUND_0042,Counterparty A,1159138.46,2027-09-23,Covered bonds
+FUND_0043,Counterparty A,1220189.89,2027-12-08,Interbank funding
+FUND_0044,Counterparty F,5563130.98,2027-11-25,Central bank facility
+FUND_0045,Counterparty B,3584870.69,2027-07-12,Central bank facility
+FUND_0046,Counterparty D,1804066.63,2026-08-03,Retail deposits
+FUND_0047,Counterparty C,4059857.74,2028-01-20,Retail deposits
+FUND_0048,Counterparty B,747619.26,2026-11-15,Retail deposits
+FUND_0049,Counterparty F,4760278.36,2026-08-11,Interbank funding
+FUND_0050,Counterparty C,2334698.88,2027-05-02,Interbank funding
+FUND_0051,Counterparty C,6431083.03,2028-03-22,Retail deposits
+FUND_0052,Counterparty A,2655305.18,2026-11-01,Retail deposits
+FUND_0053,Counterparty A,3777956.16,2028-03-18,Covered bonds
+FUND_0054,Counterparty A,340059.18,2027-10-02,Interbank funding
+FUND_0055,Counterparty D,811463.38,2027-12-28,Wholesale funding
+FUND_0056,Counterparty E,3291825.06,2027-11-07,Retail deposits
+FUND_0057,Counterparty B,3969525.97,2028-02-12,Interbank funding
+FUND_0058,Counterparty D,4900159.25,2027-08-13,Interbank funding
+FUND_0059,Counterparty A,2510384.98,2028-02-25,Central bank facility
+FUND_0060,Counterparty A,5636109.62,2027-02-25,Central bank facility
+FUND_0061,Counterparty C,6915948.58,2028-03-15,Central bank facility
+FUND_0062,Counterparty B,6293845.16,2026-08-09,Retail deposits
+FUND_0063,Counterparty B,557045.9,2026-08-15,Covered bonds
+FUND_0064,Counterparty A,3973928.84,2026-11-15,Wholesale funding
+FUND_0065,Counterparty F,1063208.88,2028-02-01,Central bank facility
+FUND_0066,Counterparty C,2125848.87,2027-05-25,Wholesale funding
+FUND_0067,Counterparty A,7896635.1,2026-10-09,Interbank funding
+FUND_0068,Counterparty B,1354340.46,2026-12-02,Covered bonds
+FUND_0069,Counterparty E,4116383.19,2028-04-26,Central bank facility
+FUND_0070,Counterparty E,5040706.94,2028-01-16,Retail deposits
+FUND_0071,Counterparty D,5694103.52,2028-02-02,Covered bonds
+FUND_0072,Counterparty A,4587277.3,2026-09-23,Covered bonds
+FUND_0073,Counterparty C,325724.07,2027-07-02,Interbank funding
+FUND_0074,Counterparty A,2780075.14,2027-08-31,Central bank facility
+FUND_0075,Counterparty A,4262265.24,2027-04-15,Interbank funding
+FUND_0076,Counterparty B,930965.37,2026-10-22,Covered bonds
+FUND_0077,Counterparty C,2967358.72,2027-12-11,Interbank funding
+FUND_0078,Counterparty E,507324.09,2027-01-20,Retail deposits
+FUND_0079,Counterparty E,858983.35,2026-08-18,Wholesale funding
+FUND_0080,Counterparty E,3326155.39,2028-03-25,Central bank facility
+FUND_0081,Counterparty A,1278547.09,2027-10-28,Central bank facility
+FUND_0082,Counterparty F,4648441.57,2027-04-10,Interbank funding
+FUND_0083,Counterparty E,5593353.51,2027-05-10,Covered bonds
+FUND_0084,Counterparty E,6454546.92,2028-01-29,Central bank facility
+FUND_0085,Counterparty C,1801164.39,2026-10-30,Central bank facility
+FUND_0086,Counterparty E,1547990.01,2027-11-10,Central bank facility
+FUND_0087,Counterparty F,1060400.76,2028-03-28,Interbank funding
+FUND_0088,Counterparty D,5182334.43,2026-12-21,Central bank facility
+FUND_0089,Counterparty B,5725186.88,2027-04-13,Retail deposits
+FUND_0090,Counterparty A,494792.62,2026-10-19,Wholesale funding
+FUND_0091,Counterparty D,7505644.91,2028-03-21,Wholesale funding
+FUND_0092,Counterparty F,652777.45,2027-01-18,Central bank facility
+FUND_0093,Counterparty D,4445046.6,2027-08-17,Wholesale funding
+FUND_0094,Counterparty C,5745219.03,2027-06-13,Central bank facility
+FUND_0095,Counterparty F,7000010.71,2027-01-23,Wholesale funding
+FUND_0096,Counterparty F,5784173.72,2027-01-12,Covered bonds
+FUND_0097,Counterparty C,6463392.64,2026-08-28,Covered bonds
+FUND_0098,Counterparty C,2880738.99,2027-11-20,Central bank facility
+FUND_0099,Counterparty C,6564894.63,2026-06-26,Wholesale funding
+FUND_0100,Counterparty F,870890.06,2027-05-27,Covered bonds
